@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: project-backend
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306
+    username: root
+    password: 620620
